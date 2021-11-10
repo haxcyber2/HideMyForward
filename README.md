@@ -14,10 +14,10 @@
 
 ## Setup
 
--- Clone the repository
--- Add Bot Token from [@BotFather]('https://telegram.com/Botfather)
--- Host the files
--- Setup Webhook ``https://api.telegram.org/bot<BOT_TOKEN_HERE>/setwebhook?url=https://YOUR_DOMAIN.com/bot.php
+- Clone the repository
+- Add Bot Token from [@BotFather]('https://telegram.com/Botfather)
+- Host the files
+- Setup Webhook ``https://api.telegram.org/bot<BOT_TOKEN_HERE>/setwebhook?url=https://YOUR_DOMAIN.com/bot.php
 ``
 
 ---
