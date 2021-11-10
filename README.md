@@ -28,6 +28,13 @@
 
 ---
 
+## Built with
+
+- PHP
+- Telegram API
+
+---
+
 ## Caption 
 
 Reply to the Forwarded Media File to Set Caption.
