@@ -49,3 +49,7 @@ Default No Caption.
 ---
 
 ## 📜 License
+
+This project is licensed under [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+
+---
