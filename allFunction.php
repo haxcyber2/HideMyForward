@@ -28,6 +28,10 @@ function sendVideoNote($chatID, $text) {
 	file_get_contents($GLOBALS[path]."/sendVideoNote?chat_id=".$chatID."&video_note=".$text);
 }
 
+function sendSticker($chatID, $fileId ) {
+	file_get_contents($GLOBALS[path]."/sendSticker?chat_id=".$chatID."&sticker=".$fileId);
+}
+
 function sendLocation($chatID, $lat , $lon ) {
 	file_get_contents($GLOBALS[path]."/sendLocation?chat_id=".$chatID."&latitude=".$lat."&longitude=".$lon);
 }
